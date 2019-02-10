@@ -12,3 +12,4 @@ akan tercetak nilai (b).
 6. Apabila perbandingan kedua tersebut bernilai false, maka akan 
 tercetak nilai (c).
 7. Nilai yang tercetak merupakan nilai terbesar.
+![tugas1](https://user-images.githubusercontent.com/45660967/52532441-c14d8b00-2d57-11e9-8c10-be603e26c058.jpg
